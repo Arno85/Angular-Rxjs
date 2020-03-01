@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#ea1f4e",
+        "activityBar.activeBorder": "#3ecc13",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#3ecc13",
+        "activityBarBadge.foreground": "#000000",
+        "statusBar.background": "#c4123b",
+        "statusBarItem.hoverBackground": "#ea1f4e",
+        "statusBar.foreground": "#e7e7e7"
+    },
+    "peacock.color": "#c4123b",
+    "vscode.tsc.compiler.alertTSConfigChanges": "never"
+}
